@@ -1,7 +1,7 @@
 Package: trread
 Type: Package
 Title: Transit File Reader
-Version: 0.2.4
+Version: 0.2.5
 Authors@R: c(
     person("Tom", "Buckley", role = c("aut", "cre"), email = "tom@tbuckl.com"),
     person("Danton", "Noriega-Goodwin", role = c("aut"), email = "danton.noriega@gmail.com"),
@@ -21,7 +21,7 @@ URL: https://github.com/r-gtfs/trread
 BugReports: https://github.com/r-gtfs/trread/issues
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2018-07-22 18:28:12 UTC; tbuck
+Packaged: 2018-07-28 02:20:57 UTC; tbuck
 Author: Tom Buckley [aut, cre],
   Danton Noriega-Goodwin [aut],
   Elaine McVey [aut],
@@ -29,4 +29,4 @@ Author: Tom Buckley [aut, cre],
   Michael Sumner [ctb]
 Maintainer: Tom Buckley <tom@tbuckl.com>
 Repository: CRAN
-Date/Publication: 2018-07-27 21:00:03 UTC
+Date/Publication: 2018-07-28 14:00:02 UTC
